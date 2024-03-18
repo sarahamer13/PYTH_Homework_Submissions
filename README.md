@@ -3,6 +3,6 @@ GA Python Homeworks
 
 ## Table Of Contents
 
-- Homework 0
+- ### Homework 0
 
 
